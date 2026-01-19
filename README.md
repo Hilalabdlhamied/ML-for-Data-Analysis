@@ -93,6 +93,4 @@ The best-performing model was selected based on overall performance and business
 - Reduced recruitment and training costs  
 - Enhanced decision-making for HR teams  
 
----
 
-## Project Structure
